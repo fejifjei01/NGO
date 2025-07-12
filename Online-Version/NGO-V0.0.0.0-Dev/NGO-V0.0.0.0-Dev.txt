@@ -1,1 +1,15 @@
+#NGO-Version=V0.0.0.0
+#state=Dev
+#id=a1a0000a1
+#uuid=48f62417-0c0c-6c09-c2e9-eb15de60db8b
+#Title=NGO
+#PreviousVersion:
+#Features:
+#BalanceChanges:
+#Compatibility=TRUE
+#DownloadURL=https://github.com/fejifjei01/NGO/tree/main/NGO-V0.0.0.0-Dev
+DocsURL=https://github.com/fejifjei01/NGO/blob/main/NGO-V0.0.0.0-Dev/NGO-V0.0.0.0-Dev.txt
+supportURL:
+#ReleaseDate=!!!!!
+#MinLauncherVersion=0.0.0.0
 
